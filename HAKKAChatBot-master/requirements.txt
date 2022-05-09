@@ -1,0 +1,5 @@
+beautifulsoup4==4.6.3
+Flask==1.1.1
+line-bot-sdk==1.12.1
+rq==1.1.0
+
